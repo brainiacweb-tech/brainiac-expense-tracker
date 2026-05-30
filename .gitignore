@@ -1,0 +1,18 @@
+# SQLite database
+*.db
+*.sqlite3
+
+# Excel exports
+*.xlsx
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+venv/
+env/
